@@ -1,5 +1,5 @@
 # vue-website
-
+![alt text](https://i.imgur.com/7Gf4NJQ.png)
 ## Project setup
 ```
 npm install
